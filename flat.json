@@ -1,1 +1,9 @@
-
+{
+  "id": "Z4OV52SU",
+  "object": "coupon",
+  "amount_off": null,
+  "duration": "repeating",
+  "duration_in_months": 3,
+  "name": "25.5% off",
+  "percent_off": 25.5,
+}
