@@ -1,5 +1,7 @@
-{
-  "promocode": [
+ {
+  "success": true,
+  "message": "Apply PromoCode successfully."
+  "data": [
      {
        "id": "Z4OV52SU",
        "object": "coupon",
@@ -9,5 +11,7 @@
        "name": "25.5% off",
        "percent_off": 25.5
      }
-  ]
+ ]
 }
+ 
+
